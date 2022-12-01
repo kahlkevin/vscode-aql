@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.1](https://github.com/monotykamary/vscode-aql/compare/v1.6.3...v1.7.1) (2022-11-23)
+
+
+### Features
+
+* update aql functions to reflect arangodb 3.10.0 ([0c6aa95](https://github.com/monotykamary/vscode-aql/commit/0c6aa950418ace4a8ad6710669120c42c8ee8ba3))
+* add icon for AQL language files ([0fea5fa](https://github.com/monotykamary/vscode-aql/commit/0fea5fa57b86995f343ccbf7546967bd8360e511))
+
 ## [1.7.0](https://github.com/monotykamary/vscode-aql/compare/v1.6.3...v1.7.0) (2022-08-06)
 
 
