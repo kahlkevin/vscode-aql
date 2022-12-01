@@ -3,10 +3,10 @@
     "displayName": "AQL (ArangoDB Query Language) Syntax Highlighting",
     "description": "Syntax Highlighting for ArangoDB Query Language (AQL) 🙌",
     "version": "1.7.1",
-    "icon": "arangodb-logo.png",
+    "icon": "assets/arangodb-logo.png",
     "publisher": "monotykamary",
     "engines": {
-        "vscode": "^1.40.0"
+        "vscode": "^1.73.0"
     },
     "categories": [
         "Programming Languages"
@@ -26,7 +26,11 @@
                 "extensions": [
                     ".aql"
                 ],
-                "configuration": "./language-configuration.json"
+                "configuration": "./language-configuration.json",
+                "icon": {
+                    "dark": "./assets/arangodb-icon.svg",
+                    "light": "./assets/arangodb-icon.svg"
+                }
             }
         ],
         "grammars": [
